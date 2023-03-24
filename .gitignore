@@ -1,0 +1,11 @@
+config.py
+test.py
+config/bot.ini
+db_services/temp_add_bd.py
+other
+.pytest_cache
+venv
+.venv
+
+# not project files
+__pycache__

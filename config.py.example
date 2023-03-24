@@ -1,0 +1,14 @@
+TELEGRAM_TOKEN = '1234567890:abcdefghijklmnopqrstuvwxyz'
+
+DATABASE = {
+    'drivername': 'postgresql',
+    'host': 'localhost',
+    'port': '5432',
+    'username': 'username',
+    'password': 'password',
+    'database': 'database'
+}
+
+ADMIN_ID = ('172457394')
+
+# Не забудьте скопировать этот файл под именем config.py

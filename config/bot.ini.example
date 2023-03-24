@@ -1,0 +1,13 @@
+[tg_bot]
+token = 1234567890:abcdefghijklmnopqrstuvwxyz
+admin_id = 987654321
+DATABASE = {
+    'drivername': 'postgresql',
+    'host': 'localhost',
+    'port': '5432',
+    'username': 'username',
+    'password': 'password',
+    'database': 'database'
+}
+
+# Не забудьте скопировать этот файл под именем bot.ini
